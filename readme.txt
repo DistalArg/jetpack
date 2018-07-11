@@ -98,12 +98,17 @@ There are opportunities for developers at all levels to contribute. [Learn more 
 
 == Changelog ==
 
-= 6.3.2 =
+= 6.4 =
 
-* Release date: July 4, 2018
-* Release post: https://wp.me/p1moTy-96E
+* Release date: August 7, 2018
+* Release post: https://wp.me/p1moTy-9md
 
+**Major Enhancements**
+
+**Enhancements**
+
+**Improved compatibility**
+ 
 **Bug fixes**
 
-* Simple Payment: Fix compatibility issues with PHP versions 5.3 and below
 
